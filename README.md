@@ -1,4 +1,17 @@
+<br>
+<br>
 
+<div align=center><h1>:checkered_flag: Used Languages </h1></div>
+
+<div align=center> 
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongKong00)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<br>
+<br>
+<br>
 
 <div align=center><h1>📚 Tech Stacks</h1></div>
 <div align=center><h5>Techs that I've used at least once</h5></div>
@@ -39,27 +52,34 @@
 
 <div align=center><h1>:star2: Project </h1></div>
 
+<br>
+
 <div align=center>
   유일무이 멀티 페르소나 관리를 위한 기록형 앱 서비스 "ON&OFF"
+   
 </div>
 
 <br>
 
 <div align=center>
-  ![project1](https://user-images.githubusercontent.com/114280643/192475757-27944d78-3e54-40b1-afdc-130ff72e629d.jpg)
+  <img src="https://user-images.githubusercontent.com/114280643/192482449-da0ed8ea-4fd6-48ff-aa79-533a261fd1ee.jpg" width="500">
 </div>
   
 <br>
 <br>
 <br>
 <br>
-<br>
+
 
 
 <div align=center><h1>:computer: Used Languages </h1></div>
 
 <div align=center> 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongKong00&layout=compact)](https://github.com/SongKong00/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongKong00)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+<br>
+<br>
+
