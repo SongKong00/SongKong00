@@ -41,6 +41,8 @@
 
 <div align=center>
   유일무이 멀티 페르소나 관리를 위한 기록형 앱 서비스 "ON&OFF"
+  <img width="80%" src="![찐최종_해커톤_온앤오프_멀티 페르소나 관리형 서비스_Team1_220927_172058](https://user-images.githubusercontent.com/114280643/192473520-f92381c8-a9fa-4b34-950a-d71717d54f9b.jpg)"/>
+  
 </div>
   
   
