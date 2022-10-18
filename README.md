@@ -1,7 +1,7 @@
 <br>
 <br>
 
-<div align=center><h1>:checkered_flag: Used Languages </h1></div>
+<div align=center><h1>:checkered_flag: GitHub stats </h1></div>
 
 <div align=center> 
   
