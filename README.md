@@ -33,7 +33,7 @@
  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
  <br>
   
- <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+ 
  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white">
  <img src="https://img.shields.io/badge/Virtual Box-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white">
  <br>
