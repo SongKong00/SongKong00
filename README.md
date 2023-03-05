@@ -1,6 +1,6 @@
   
   ### Hello 👋  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSongKong00&count_bg=%23D5D5D5&title_bg=%2316A5CB&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/SongKong00)  [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hesong1)](https://solved.ac/bjho606)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSongKong00&count_bg=%23D5D5D5&title_bg=%2316A5CB&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/SongKong00)  [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hesong1)](https://solved.ac/hesong1)
   </div>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongKong00)](https://github.com/anuraghazra/github-readme-stats)
