@@ -1,13 +1,25 @@
-<br>
+  
+  ### Hello 👋  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSongKong00&count_bg=%23D5D5D5&title_bg=%2316A5CB&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/SongKong00)  [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hesong1)](https://solved.ac/bjho606)
+  </div>
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongKong00)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+  ### 대표 프로젝트
+  ##### [유일무이 멀티 페르소나 관리를 위한 기록형 앱 서비스 - "ON&OFF"](https://github.com/CMC-Hackathon-Team1) 
+  ##### [모임의 점심 메뉴 선택을 돕는 그룹형 투표 기반 메뉴 랜덤 추천 서비스 - "점.선.면"](https://github.com/Team-DotLinePlane)
+  ##### [30일 목표 달성 챌린지 앱 서비스 - "Thirty"](https://github.com/stereo-scopic)
+  ##### [이어달리기로 키우는 달리기 습관 - "런닝Mens"](https://github.com/Relay-UMC23)
+  
+
+<!-- <br>
 <br>
 
 <div align=center><h1>:checkered_flag: GitHub stats </h1></div>
 
-<div align=center> 
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongKong00)](https://github.com/anuraghazra/github-readme-stats)
+<div align=center>  -->
 
-</div>
+<!-- </div>
 
 <br>
 <br>
@@ -69,6 +81,6 @@
 <br>
 <br>
 <br>
-
+ -->
 
 
